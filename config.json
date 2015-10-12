@@ -1,0 +1,14 @@
+{
+  "development": {
+    "environment": "development",    
+    "viewCache": false,
+    "secret" : "ilovelinks2015-dev",
+    "port": 8080   
+  },
+  "production": {
+    "environment": "production",  
+    "viewCache": true,
+    "secret" : "ilovelinks2015-dev",
+    "port": 8080    
+  }
+}
